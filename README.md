@@ -52,7 +52,7 @@ Once deployed or running locally, the app provides a user-friendly interface for
 
 ## Deployment
 This app is deployed using AWS Amplify. You can access the live version here:
-    ```bash
+    ```
     https://dev.d1fmu6rgcst9ib.amplifyapp.com/
     ```
 
