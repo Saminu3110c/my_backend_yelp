@@ -15,7 +15,7 @@ To install and run the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://git.us.qwasar.io/my_backend_yelp_170004_dyky4h/my_backend_yelp.git
+    git clone https://github.com/Saminu3110c/my_backend_yelp.git
     ```
 
 2. Navigate to the project directory:
